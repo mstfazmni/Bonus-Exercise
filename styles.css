@@ -1,0 +1,35 @@
+button{
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    margin-top: 15px;
+    border: 0;
+    border-radius: 10px;
+    background-color: rgb(67, 161, 190);
+    color: white;
+    cursor: pointer;
+}
+button:hover{
+    box-shadow: 5px 5px 5px rgb(104, 101, 101);
+    Background-color: rgb(47, 131, 160);
+}
+#right-button{
+    padding: 20px 30px;
+}
+#left-button{
+    padding: 20px 17px;
+}
+img{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    display: block;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(104, 101, 101);
+}
+
+body{
+    background-color: rgba(73, 99, 172, 0.421);
+    text-align: center;
+}
